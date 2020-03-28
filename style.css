@@ -1,0 +1,37 @@
+b{
+    display: block;
+}
+.video{
+    margin-left: 300px;
+}
+h1 {
+    color: red;
+}
+#blue-bordered {
+    border: 3px dashed blue;
+}
+.button{
+    background-color: rgb(13, 116, 13);
+  border: none;
+  color: black;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.img{
+    border: 10px solid rgb(13, 116, 13);
+    padding: 10px;
+    border-image: url(border.png) 20 round;
+}
+.flex-container{
+    background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
